@@ -9,6 +9,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15337#A-Source-Book-of-Australian-History
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2005-03-12'
 gutenberg_type: Text
