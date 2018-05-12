@@ -1,0 +1,25 @@
+_repo: A-Source-Book-of-Australian-History_15337
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Swinburne, Gwendolen H.
+    gutenberg_agent_id: '6004'
+    url: http://www.gutenberg.org/2009/agents/6004
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- History -- Sources'
+- !lcc 'DU'
+title: A Source Book of Australian History
+url: http://www.gutenberg.org/ebooks/15337
